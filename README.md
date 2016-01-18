@@ -1,15 +1,15 @@
-soccii v.0.1.mvp
+# soccii v.0.1.mvp
 
-** Soccii Dashboard **
+## Soccii Dashboard
 
-** Site Layout **
+### Site Layout
 
-Public
+### Public
 * Homepage
 ** Sign Up
 ** Sign In
 
-Authenticated:
+### Authenticated:
 * Dashboard
 ** Market Indices
 ** Bottlenose Stats
@@ -24,7 +24,7 @@ Authenticated:
 *** Add symbol
 *** Remove symbols
 
-Services:
+### Services:
 
 * Market Indices Feed API
 * Bottlenose API
