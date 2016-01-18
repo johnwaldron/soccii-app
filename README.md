@@ -34,3 +34,6 @@
 * Commits to github: https://github.com/johnwaldron/soccii-app
 * Deploy to Heroku: TBD
 
+## Overview
+
+![ScreenShot](docs/dev/soccii.png)
